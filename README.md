@@ -148,12 +148,10 @@ Open a Pull Request
 ### 👥 Author <a name="author"></a>
 
 
-🕵🏽 **Moriah Asare**
+🕵🏽 **Mavis Korkor Kwao**
 
-- GitHub: [GitHub Profile](https://github.com/Moriahasare)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/moriah-asare/)
-- Medium: [Medium](https://medium.com/@moriahasare/analysis-on-indian-startup-ecosystem-82a53aea10cf)
-- Email: [Email](moriahasare@gmail.com)
+- GitHub: [GitHub Profile](https://github.com/Mavis-KK)
+- Email: [Email](kwaomavis@gmail.com)
 
 
 ## Reference
